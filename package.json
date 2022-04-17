@@ -18,7 +18,7 @@
   },
   "scripts": {
     "build": "tsc -w",
-    "dev": "ts-node ./src/addTwoNumbers.ts",
+    "dev": "ts-node ./src/lengthOfLongestSubstring.ts",
     "test": "jest"
   },
   "repository": {
